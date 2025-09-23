@@ -1,4 +1,4 @@
-<table>
+<!-- <table>
   <tbody>
     <tr>
       <td><img src="./public/demo/1.jpg" /></td>
@@ -62,7 +62,7 @@ English | [简体中文](README.zh-CN.md)
 💪 Supports Node.js API in the renderer process  
 🔩 Supports C/C++ native addons  
 🐞 Debugger configuration included  
-🖥 Easy to implement multiple windows  
+🖥 Easy to implement multiple windows   -->
 
 ## ⌨️ Dependencies
 
