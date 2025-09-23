@@ -82,10 +82,10 @@ English | [简体中文](README.zh-CN.md)
 
 ```sh
 # clone the project
-git clone https://github.com/12343954/electron-slash-admin.git
+git clone https://github.com/annguyen81401/CPELab-Dashboard.git
 
 # enter the project directory
-cd electron-slash-admin
+cd CPELab-Dashboard
 
 # install dependency
 npm install
