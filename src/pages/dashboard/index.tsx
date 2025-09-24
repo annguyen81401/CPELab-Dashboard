@@ -30,7 +30,7 @@ function Analysis() {
 						cover={modem}
 						title="Total CPE"
 						subtitle=""
-						number="5 062 098"
+						number="5 1544 401"
 						style={{
 							color: "#AEB9E1",
 							background: theme.colorBgContainer
@@ -42,7 +42,7 @@ function Analysis() {
 						cover={glass_users}
 						title="Online"
 						subtitle=" (Last 3 days)"
-						number="3 978 016"
+						number="4 271 642"
 						style={{
 							color: "#AEB9E1",
 							background: theme.colorBgContainer
@@ -54,7 +54,7 @@ function Analysis() {
 						cover={glass_users}
 						title="Online"
 						subtitle=" (Last 10 days)"
-						number="4 902 149"
+						number="4 998 600"
 						style={{
 							color: "#AEB9E1",
 							background: theme.colorBgContainer
