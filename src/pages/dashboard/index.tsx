@@ -85,7 +85,7 @@ function Analysis() {
 		  const res = await overviewApi.getOverviewsCPESModelChanges({
 			from_date: dateRange[0],
 			to_date: dateRange[1],
-			models: modelsArrays,
+			models: models,
 		  });
 		  setChartData(res.data);
 		} catch (err) {
